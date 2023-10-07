@@ -8,33 +8,37 @@ Welcome to GPTForAnything, a knowledge source repository dedicated to collecting
 
 ## Table of Contents
 
-1. [Google Colab Notebooks](#google-colab-notebooks)
-2. [Code Repositories](#code-repositories)
-3. [Research Papers and Articles](#research-papers-and-articles)
+1. [Finance](#finance)
+2. [Medicine](#medicine)
 
-## Google Colab Notebooks
+## Finance
 
-In this section, you will find a collection of Google Colab notebooks that provide hands-on learning experiences with GPT. These notebooks are designed to help you understand how to apply GPT in various applications. Whether you are a beginner or an experienced practitioner, these resources can be valuable for your learning journey.
+### Application
 
-- [Example Colab Notebook 1](#link-to-notebook-1)
-- [Example Colab Notebook 2](#link-to-notebook-2)
-- [Example Colab Notebook 3](#link-to-notebook-3)
+### Article
 
-## Code Repositories
+-
 
-This section contains links to code repositories that demonstrate the implementation of GPT in real-world applications. You can explore these repositories to gain insights into how GPT can be integrated into different projects and use cases.
+-
 
-- [Example Code Repository 1](#link-to-repo-1)
-- [Example Code Repository 2](#link-to-repo-2)
-- [Example Code Repository 3](#link-to-repo-3)
+### Code
 
-## Research Papers and Articles
+-
 
-Here, you will find a curated list of research papers, articles, and blog posts related to GPT and its applications. These resources provide in-depth knowledge and insights into the latest advancements in GPT technology and its impact on various domains.
+## Medicine
 
-- [Example Research Paper 1](#link-to-paper-1)
-- [Example Research Paper 2](#link-to-paper-2)
-- [Example Article 1](#link-to-article-1)
+### Application
+
+- Perceptra AI
+
+### Article
+
+-
+
+### Code
+
+-
+-
 
 ## Contributing
 
